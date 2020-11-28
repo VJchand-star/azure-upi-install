@@ -1,6 +1,7 @@
 # azure-upi-install
-Azure UPI Install (YouTube Demo:)
+Azure UPI Install 
 
+YouTube Demo : https://youtu.be/7-20Dq8eLS4
 ## Reference Links during the install
 1. Red Hat OCP Tools (openshift-installer, oc, kubectl) and Pull Secret
     https://cloud.redhat.com
