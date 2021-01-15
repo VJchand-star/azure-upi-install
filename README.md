@@ -17,4 +17,4 @@ In this demonstration we setup our access to Azure by first loging in using the 
 
 The goal of this install is to build a basic OCP 4.5 cluster in a pre-allocated resource group on Azure.
 
-Please refer to [dude-script.md] (.dude-script.md) for the procedures.
+Please refer to [dude-script.md](.dude-script.md) for the procedures.
